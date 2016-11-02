@@ -143,6 +143,8 @@
   * Cambridge: [CambR](http://www.cambr.org.uk/)
   * Exeter: [Exeter](http://www.meetup.com/Exeter-R-Users-Group-Exeter-Devon-England/) R Users Group
   * London: [LondonR](http://www.meetup.com/LondonR/)
+  * London: [beginR](https://www.meetup.com/London-beginR/)
+  * London: [London Kaggle Meetup](https://www.meetup.com/London-Kaggle-Meetup/)
   * Manchester: [ManchesterR](http://www.rmanchester.org/)
   * Newcastle: [R North East](http://www.meetup.com/R-North-East/); [\@RstatsNE](https://twitter.com/RstatsNE)
   * Nottingham: [Nottingham](http://www.meetup.com/NottinghamR-Nottingham-R-Users-Group/) R User group
